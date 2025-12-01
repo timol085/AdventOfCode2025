@@ -1,0 +1,14 @@
+# Ignore CLion / JetBrains
+.idea/
+
+# Ignore CMake build directory
+build/
+
+# Ignore CMake cache files
+CMakeCache.txt
+CMakeFiles/
+
+# Ignore executables
+*.o
+*.out
+*.exe
