@@ -3,9 +3,9 @@ project(AdventOfCode)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_subdirectory(DayOne)
-add_subdirectory(DayTwo)
-add_subdirectory(DayThree)
-add_subdirectory(DayFour)
-add_subdirectory(DayFive)
+add_subdirectory(Day01)
+add_subdirectory(Day02)
+add_subdirectory(Day03)
+add_subdirectory(Day04)
+add_subdirectory(Day05)
 
