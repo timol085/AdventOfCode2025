@@ -1,6 +1,6 @@
 # Advent of Code 
 
-This repository contains my personal solutions to the Advent of Code programming puzzles created by Eric Wastl. Advent of Code is an annual Advent-style challenge featuring small, standalone programming problems that can be solved in any language. I'm using this repo to practice problem-solving, improve my C++ skills, and experiment with different techniques throughout the event.
+This repository contains my personal solutions to the Advent of Code programming puzzles created by Eric Wastl. Advent of Code is an annual Advent-style challenge featuring small, standalone programming problems that can be solved in any language. I'm using this repo to practice problem-solving, improve my C++ skills, and experiment with different techniques throughout the event. To learn more about Advent of Code, visit [Advent of Code](https://adventofcode.com/2025/about).
 
 ## Table of Contents
 
